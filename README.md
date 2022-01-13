@@ -14,10 +14,9 @@ with larger but sparser datasets.
 
 ## Notebook 1: optimization_of_wine_quality_compare_cooling_method
 
+Explored various hyperparmeter for SA algorithm such as the temperature decreasing rules (linear vs exponential, etc.)
+
 ## Notebook 2: optimization_of_wine_quality_linear
 
-This is the start of my foray into optimization techniques that can be used on empirical
-datasets to find optimal ranges of parameters. Alternative techniques include Bayesian
-optimization (can be used for model hyperparmeter optimization or for expensive cost
-function calls) and BFGS optimization algorithm (to find the best input parameters to a pre-trained deep neural
-net model).
+This is the start of my foray into the SA optimization technique on an empirical
+dataset to find optimal ranges of parameters for high quality Portuguese wine.
