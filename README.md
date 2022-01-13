@@ -3,7 +3,7 @@
 ## Description
 Using Simulated Annealing to optimize for best Wine quality
 
-## Using Simulated Annealing to optimize model input parameters
+## Using Simulated Annealing to optimize machine model inputs
 
 There are various approaches that one can take to reverse-engineer a trained
 machine learning model and we explore this problem by implementing simulated
